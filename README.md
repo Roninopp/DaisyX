@@ -28,10 +28,10 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> ⭐️ Thanks to everyone who starred Daisy, That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone who starred samurai, That is the greatest pleasure we have !
 
 ### https://daisyproject.studio
-## Avaiilable a latest version as  [@DaisyXBot](https://t.me/daisyxbot) on Telegram [CLOSED SOURCE]
+## Avaiilable a latest version as  [@FANTASTICFIGHTERBOT](https://@Ronin_Fighters_Fd) on Telegram [CLOSED SOURCE]
 
 # 🧙‍♀️ Deploy Guide
 Complete guide on deploying @DaisyXBot's clone on Heroku.
@@ -42,7 +42,7 @@ Complete guide on deploying @DaisyXBot's clone on Heroku.
 
 
 # 🏃‍♂️ Easy Deploy 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyX.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Roninopp/DaisyX.git)
 
 [Generate String Session](https://replit.com/@SpEcHiDe/GenerateStringSession)  << Select telethon
 
